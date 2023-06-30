@@ -12,12 +12,12 @@
 }
 
 .alt-header__title {
-    font-size: 25px;
+    font-size: 19px;
     font-weight: 600;
 }
 
 .alt-header__column:first-child {
-    margin-right: auto;
+    text-align: start;
 }
 
 .alt-header__column:nth-child(2) {

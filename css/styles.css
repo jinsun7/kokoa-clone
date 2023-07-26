@@ -21,6 +21,7 @@
 @import "screens/more.css";
 @import "screens/settings.css";
 @import "screens/chats.css";
+@import "screens/ui-setting.css";
 
 body {
     color: #2e363e;
